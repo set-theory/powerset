@@ -1,0 +1,22 @@
+{
+  "coverage": "100%",
+  "expectCount": 3,
+  "actualCount": 3,
+  "files": {
+    "src/_increment.js": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/_powerset.js": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/powerset.js": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    }
+  }
+}
