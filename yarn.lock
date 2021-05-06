@@ -1244,7 +1244,7 @@
   resolved "https://registry.yarnpkg.com/@iterable-iterator/consume/-/consume-0.0.1.tgz#a37a96aba64caf2c64b517b1d2529a5864482df2"
   integrity sha512-z4a8wR6JciJTrV85itsNw8pcXlq44ktWmESp66em0gjAqSnaYtKyGwDFp2FdTuVa1+p+mO+WoC0XmSVMFYc3jQ==
 
-"@iterable-iterator/count@^0.0.1":
+"@iterable-iterator/count@0.0.1":
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/@iterable-iterator/count/-/count-0.0.1.tgz#b3224aa6df617a285b175df1cf08ab7842edbbea"
   integrity sha512-BWaGS9sHe2VgzzteyZIc+fNPtPymeLt3gK0V2d618u+tAzkKidNLp40R2pblHu4hgWWiks8vg4srJS8NZaK95w==
@@ -1264,7 +1264,7 @@
   resolved "https://registry.yarnpkg.com/@iterable-iterator/map/-/map-0.1.0.tgz#abccfff2fd3cfde9505566563eb15dae4209bfb0"
   integrity sha512-Qx6GvjGqqhk4zxOrP1Q18tvMyr5CPdDRtxSlzkTabFdREy4fLc3nddZBoheD3RovWvaRDmQstt76ETIspDJkcQ==
 
-"@iterable-iterator/range@^1.0.0":
+"@iterable-iterator/range@1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@iterable-iterator/range/-/range-1.0.0.tgz#5b3255710e3e0d174a82e38024dc2af3c1aeee25"
   integrity sha512-rFgziHtzWs/Zl1c5SfkAbUZzXvqvyeMtjsrwdkvXFQ1FCCXmzFjaMOKpr++wFuoV83XzZuiJ6lyHNEd3CSIyTg==
@@ -1274,7 +1274,7 @@
   resolved "https://registry.yarnpkg.com/@iterable-iterator/reversed/-/reversed-0.0.2.tgz#a8f0e5338d6eeba75a2f596aeae0347edcc0607a"
   integrity sha512-RtvSHRBvdm4gzgfkA+6R1TrgPK5JfqN7yKqxLpkfedf2ajiJ3YFTfUAGmTY/ud9fBPwxdt9Js9HT8oXGRw2COQ==
 
-"@iterable-iterator/slice@^0.0.1":
+"@iterable-iterator/slice@0.0.1":
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/@iterable-iterator/slice/-/slice-0.0.1.tgz#62a8e15435714787659563ad0bc4138e52f5baf2"
   integrity sha512-8U0wLGf3lgZY/MSvmkCwjVF6mivwp3MEY6gCBbD+I6qvJk2Xy7PAWK22lcg69kQKoqGc2HviGeLzDfMh1DNpGw==
