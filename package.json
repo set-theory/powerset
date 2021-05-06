@@ -1,7 +1,7 @@
 {
   "name": "@set-theory/powerset",
   "description": "Powerset operator for JavaScript",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "license": "AGPL-3.0",
   "author": "make-github-pseudonymous-again",
   "homepage": "https://set-theory.github.io/powerset",
