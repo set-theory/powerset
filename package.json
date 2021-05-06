@@ -60,11 +60,9 @@
     "test": "ava"
   },
   "dependencies": {
-    "@iterable-iterator/filter": "^0.1.2",
     "@iterable-iterator/iter": "^0.0.2",
     "@iterable-iterator/list": "^0.0.2",
     "@iterable-iterator/map": "^0.1.0",
-    "@iterable-iterator/next": "^1.0.1",
     "@iterable-iterator/reversed": "^0.0.2"
   },
   "devDependencies": {

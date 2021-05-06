@@ -1229,7 +1229,7 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@failure-abstraction/error@^5.0.3", "@failure-abstraction/error@^5.0.5":
+"@failure-abstraction/error@^5.0.3":
   version "5.0.5"
   resolved "https://registry.yarnpkg.com/@failure-abstraction/error/-/error-5.0.5.tgz#0cf54ae8f76a025a8df015acd958192fb29a5e9a"
   integrity sha512-1wYCScLBgVzSrXWDNg6KqZPCTtrbduDIxGGx3OXfGXQgWusFC8vdgKL6XLycAgsv3FRx8jardWQGYnEHUCccQQ==
@@ -1249,13 +1249,6 @@
   resolved "https://registry.yarnpkg.com/@iterable-iterator/count/-/count-0.0.1.tgz#b3224aa6df617a285b175df1cf08ab7842edbbea"
   integrity sha512-BWaGS9sHe2VgzzteyZIc+fNPtPymeLt3gK0V2d618u+tAzkKidNLp40R2pblHu4hgWWiks8vg4srJS8NZaK95w==
 
-"@iterable-iterator/filter@^0.1.2":
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/@iterable-iterator/filter/-/filter-0.1.2.tgz#04f6519831493c42cadb8282903074dd53989012"
-  integrity sha512-xpk6KZwBMNyVTMA2kVIZX4qUHhpILKfXPKD4JqjpaJLx/v5VcA76EJ4cVRJjpwJLo/0P2VRshOMuxfAekXTtyA==
-  dependencies:
-    "@iterable-iterator/zip" "^0.0.2"
-
 "@iterable-iterator/iter@^0.0.2":
   version "0.0.2"
   resolved "https://registry.yarnpkg.com/@iterable-iterator/iter/-/iter-0.0.2.tgz#7129988de2071ffb747632bd0190c0db579a5b69"
@@ -1266,32 +1259,15 @@
   resolved "https://registry.yarnpkg.com/@iterable-iterator/list/-/list-0.0.2.tgz#6289761d3ada6bb88f0c92683367ea960f310869"
   integrity sha512-103Wwqx0x8neIFjm0GVR7cmEcv29Eg7F4lX72sr9L6FzMH9lp50ejfroAdbdMT37TWq2KVNo1eEWXtFo9hBybw==
 
-"@iterable-iterator/map@^0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@iterable-iterator/map/-/map-0.0.1.tgz#13dd222dd384d934741d96197c0d963c5678760d"
-  integrity sha512-uB9ndHoHIditj/0+WiyZou2NqEi7yHESkL0pSC6LfVRPQcwfRUrtzd9+P002Zu8/bdm7xSYZCgTl6SIpjJxORw==
-
 "@iterable-iterator/map@^0.1.0":
   version "0.1.0"
   resolved "https://registry.yarnpkg.com/@iterable-iterator/map/-/map-0.1.0.tgz#abccfff2fd3cfde9505566563eb15dae4209bfb0"
   integrity sha512-Qx6GvjGqqhk4zxOrP1Q18tvMyr5CPdDRtxSlzkTabFdREy4fLc3nddZBoheD3RovWvaRDmQstt76ETIspDJkcQ==
 
-"@iterable-iterator/next@^1.0.0", "@iterable-iterator/next@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@iterable-iterator/next/-/next-1.0.1.tgz#ed7fb7b6bf44c3bd77dd01e2c5a0a03830b9142c"
-  integrity sha512-igrAA2O3qCGHQbEjktXeiYxopq5RvaNhzooivyuq7vmE1U2tRmMyP8e5+LaNbrVLZH1jGWcWIATsNo8Q3D/I5w==
-  dependencies:
-    "@failure-abstraction/error" "^5.0.5"
-
 "@iterable-iterator/range@^1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@iterable-iterator/range/-/range-1.0.0.tgz#5b3255710e3e0d174a82e38024dc2af3c1aeee25"
   integrity sha512-rFgziHtzWs/Zl1c5SfkAbUZzXvqvyeMtjsrwdkvXFQ1FCCXmzFjaMOKpr++wFuoV83XzZuiJ6lyHNEd3CSIyTg==
-
-"@iterable-iterator/repeat@^0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@iterable-iterator/repeat/-/repeat-0.0.1.tgz#3475728b7feb093624a04f6e7abd4103f10c30c0"
-  integrity sha512-WNuPt8H+p70TPG/CntJDcCHBPiYUA1SOVE/V45C0a9T/hr0ThRvn/Q+5diDaU3U3iJUH/Tqua+7S6ad0mS5Dzw==
 
 "@iterable-iterator/reversed@^0.0.2":
   version "0.0.2"
@@ -1306,18 +1282,6 @@
     "@data-structure/deque" "^8.0.0"
     "@iterable-iterator/consume" "^0.0.1"
     "@iterable-iterator/iter" "^0.0.2"
-
-"@iterable-iterator/zip@^0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@iterable-iterator/zip/-/zip-0.0.2.tgz#8462cd4eb76d32c901bc9ff3323df5e82c1d1dff"
-  integrity sha512-dtWZUs4ePqp1NQ6S/UkFfNNRTr814TiBvP6wQmGvhhLX5EYzoVz/T5zA0aZCzkvBbhJ2pYYPBLRTs1P2Oi870g==
-  dependencies:
-    "@iterable-iterator/count" "^0.0.1"
-    "@iterable-iterator/iter" "^0.0.2"
-    "@iterable-iterator/list" "^0.0.2"
-    "@iterable-iterator/map" "^0.0.1"
-    "@iterable-iterator/next" "^1.0.0"
-    "@iterable-iterator/repeat" "^0.0.1"
 
 "@js-library/commitlint-config@0.0.4":
   version "0.0.4"
