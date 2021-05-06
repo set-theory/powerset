@@ -11,6 +11,15 @@ See [docs](https://set-theory.github.io/powerset/index.html).
 > `regeneratorRuntime` to be defined, for instance by importing
 > [regenerator-runtime/runtime](https://www.npmjs.com/package/regenerator-runtime).
 
+```js
+import {count} from '@iterable-iterator/count';
+import {powerset as subsets} from '@set-theory/powerset';
+
+const naturalNumbers = count(0n, 1n);
+
+for (const subset of subsets(naturalNumbers)) ... ;
+```
+
 [![License](https://img.shields.io/github/license/set-theory/powerset.svg)](https://raw.githubusercontent.com/set-theory/powerset/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@set-theory/powerset.svg)](https://www.npmjs.org/package/@set-theory/powerset)
 [![Tests](https://img.shields.io/github/workflow/status/set-theory/powerset/ci:test?event=push&label=tests)](https://github.com/set-theory/powerset/actions/workflows/ci:test.yml?query=branch:main)
