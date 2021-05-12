@@ -66,8 +66,8 @@
     "@iterable-iterator/reversed": "^0.0.2"
   },
   "devDependencies": {
-    "@babel/core": "7.14.0",
-    "@babel/preset-env": "7.14.1",
+    "@babel/core": "7.14.2",
+    "@babel/preset-env": "7.14.2",
     "@babel/register": "7.13.16",
     "@commitlint/cli": "12.1.1",
     "@iterable-iterator/count": "0.0.1",
