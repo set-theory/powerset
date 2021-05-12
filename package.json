@@ -69,7 +69,7 @@
     "@babel/core": "7.14.2",
     "@babel/preset-env": "7.14.2",
     "@babel/register": "7.13.16",
-    "@commitlint/cli": "12.1.1",
+    "@commitlint/cli": "12.1.3",
     "@iterable-iterator/count": "0.0.1",
     "@iterable-iterator/range": "1.0.0",
     "@iterable-iterator/slice": "0.0.1",
