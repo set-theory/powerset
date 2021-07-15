@@ -1446,10 +1446,10 @@
   resolved "https://registry.yarnpkg.com/@iterable-iterator/map/-/map-1.0.0.tgz#a3c566ae8bd7baec6612eaf9f9553b92e1ad7122"
   integrity sha512-EglFlgU+5FdJlmlShIYG3JoXQqJoCsqEZYfhq6Kjyol+wG0Stw/WRpt54sCmcbHjPCFjPZh5L7bu6T9JY2USXw==
 
-"@iterable-iterator/range@2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@iterable-iterator/range/-/range-2.0.0.tgz#7cb75cecb09621821e4c710ac785ef4159d75216"
-  integrity sha512-FuGfd6oCyoZ+d47kJP9c492//qsNVOFIlIIe20aJA2jPQYjae+LhWkdS5h8c7z4zUC5jhWxamSlYBC7BIS2+TQ==
+"@iterable-iterator/range@2.0.1":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@iterable-iterator/range/-/range-2.0.1.tgz#3d566aa26e3df496f2ba18a2f67de4c65518e81c"
+  integrity sha512-JPkPH/u4AQxWyqXDOqHk4DZeQJANv67cXuiE0DLC0FTaRgExQASlbhPZJo+JVxZRXW2EOBXSzdKdJQe5w9XghA==
 
 "@iterable-iterator/reversed@^1.0.0":
   version "1.0.0"
