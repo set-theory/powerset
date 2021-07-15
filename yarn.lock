@@ -1426,10 +1426,10 @@
   resolved "https://registry.yarnpkg.com/@iterable-iterator/consume/-/consume-1.0.1.tgz#abbe00af0d48542eb8e240f698e85fd4ba9b28b0"
   integrity sha512-KVJufzV8/gOnYqrtO4CFdGZopJ5kkUBhzHcbU0iToOv5aTl0igxnsRzCaDSxUgO4q0mDbf9WEfjz4K39cl1iNA==
 
-"@iterable-iterator/count@1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@iterable-iterator/count/-/count-1.0.0.tgz#283e34fa6f8cb28088c30e6b29747d8da27e0d5d"
-  integrity sha512-3DcqBaxe0t48UcS9yYv7XF+0iJ8cUtxea5/j72ikidjPpDDUyBN3dwnj1KF5bapkvTdpLCoWFsssc8LG/FifWg==
+"@iterable-iterator/count@1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@iterable-iterator/count/-/count-1.0.1.tgz#37c13ff5cb43528280fcf0c2c0791475ebff4cf2"
+  integrity sha512-nLBcrNownYvXgye2CVnQvTjZ5d3C2b/5nrySDvQ9/7ej5pGSfkvYvIl4xcZcocViwIa49p6/72nkcDC1xkvpJg==
 
 "@iterable-iterator/iter@^1.0.1":
   version "1.0.1"
