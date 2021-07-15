@@ -6,14 +6,14 @@
 
 First, require the polyfill at the entry point of your application
 ```js
-require( 'regenerator-runtime/runtime' ) ;
+await import( 'regenerator-runtime/runtime.js' ) ;
 // or
 import 'regenerator-runtime/runtime.js' ;
 ```
 
 Then, import the library where needed
 ```js
-const powerset = require( '@set-theory/powerset' ) ;
+const powerset = await import( '@set-theory/powerset' ) ;
 // or
 import * as powerset from '@set-theory/powerset' ;
 ```
