@@ -1,10 +1,10 @@
 import test from 'ava';
 
-import {powerset} from '../../src/index.js';
 import {list} from '@iterable-iterator/list';
 import {range} from '@iterable-iterator/range';
 import {count} from '@iterable-iterator/count';
 import {take} from '@iterable-iterator/slice';
+import {powerset} from '../../src/index.js';
 
 const repr = (x) => (Array.isArray(x) ? JSON.stringify(x) : x.toString());
 
