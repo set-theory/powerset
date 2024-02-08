@@ -19,7 +19,7 @@ for (const subset of subsets(naturalNumbers)) ... ;
 
 [![License](https://img.shields.io/github/license/set-theory/powerset.svg)](https://raw.githubusercontent.com/set-theory/powerset/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@set-theory/powerset.svg)](https://www.npmjs.org/package/@set-theory/powerset)
-[![Tests](https://img.shields.io/github/workflow/status/set-theory/powerset/ci?event=push&label=tests)](https://github.com/set-theory/powerset/actions/workflows/ci.yml?query=branch:main)
+[![Tests](https://img.shields.io/github/actions/workflow/status/set-theory/powerset/ci.yml?branch=main&event=push&label=tests)](https://github.com/set-theory/powerset/actions/workflows/ci.yml?query=branch:main)
 [![Dependencies](https://img.shields.io/librariesio/github/set-theory/powerset.svg)](https://github.com/set-theory/powerset/network/dependencies)
 [![GitHub issues](https://img.shields.io/github/issues/set-theory/powerset.svg)](https://github.com/set-theory/powerset/issues)
 [![Downloads](https://img.shields.io/npm/dm/@set-theory/powerset.svg)](https://www.npmjs.org/package/@set-theory/powerset)
